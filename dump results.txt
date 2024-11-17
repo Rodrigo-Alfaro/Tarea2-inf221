@@ -1,0 +1,65 @@
+Palabra 1:  \newline
+Palabra 2:  \newline
+Largo de palabra 1: 0 \newline
+Largo de palabra 2: 0 \newline
+Distancia minima: 0 \newline
+Distancia minima dp: 0 \newline
+Tiempo medio de ejecucion (Fuerza Bruta): 0.000000 ms \newline
+Uso medio de memoria (Fuerza Bruta): 0 KB \newline
+Tiempo medio de ejecucion (DP): 0.000000 ms \newline
+Uso medio de memoria (DP): 0 KB \newline
+
+Palabra 1: algorithm \newline
+Palabra 2: logarithm \newline
+Largo de palabra 1: 9 \newline
+Largo de palabra 2: 9 \newline
+Distancia minima: 26 \newline
+Distancia minima dp: 26 \newline
+Tiempo medio de ejecucion (Fuerza Bruta): 84.669600 ms \newline
+Uso medio de memoria (Fuerza Bruta): 0 KB \newline
+Tiempo medio de ejecucion (DP): 0.033867 ms \newline
+Uso medio de memoria (DP): 0 KB \newline
+
+
+Palabra 1: cafe \newline
+Palabra 2: acfe \newline
+Largo de palabra 1: 4 \newline
+Largo de palabra 2: 4 \newline
+Distancia minima: 24 \newline
+Distancia minima dp: 24 \newline
+Tiempo medio de ejecucion (Fuerza Bruta): 0.072533 ms \newline
+Uso medio de memoria (Fuerza Bruta): 0 KB \newline
+Tiempo medio de ejecucion (DP): 0.110467 ms \newline
+Uso medio de memoria (DP): 0 KB \newline
+
+Palabra 1: vashar \newline
+Palabra 2: shashara \newline
+Largo de palabra 1: 6 \newline
+Largo de palabra 2: 8 \newline
+Distancia minima: 47 \newline
+Distancia minima dp: 47 \newline
+Tiempo medio de ejecucion (Fuerza Bruta): 7.455067 ms \newline
+Uso medio de memoria (Fuerza Bruta): 0 KB \newline
+Tiempo medio de ejecucion (DP): 0.206267 ms \newline
+Uso medio de memoria (DP): 0 KB \newline
+
+
+Largo de palabra 1: 1048 \newline
+Largo de palabra 2: 1048 \newline
+Distancia minima: 0 \newline
+Distancia minima dp: 8163 \newline
+Tiempo medio de ejecucion (Fuerza Bruta): 0.000000 ms \newline
+Uso medio de memoria (Fuerza Bruta): 0 KB \newline
+Tiempo medio de ejecucion (DP): 5438.044933 ms \newline
+Uso medio de memoria (DP): 60 KB \newline
+
+Palabra 1: aaaaaabbbaa \newline
+Palabra 2: bbbbbbaaabb \newline
+Largo de palabra 1: 11 \newline
+Largo de palabra 2: 11 \newline
+Distancia minima: 143 \newline
+Distancia minima dp: 143 \newline
+Tiempo medio de ejecucion (Fuerza Bruta): 1047.071933 ms \newline
+Uso medio de memoria (Fuerza Bruta): 0 KB \newline
+Tiempo medio de ejecucion (DP): 0.000000 ms \newline
+Uso medio de memoria (DP): 0 KB \newline
